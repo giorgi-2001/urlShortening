@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://giorgi-2001.github.io/urlShortening/)
 
 ## My process
 
@@ -70,5 +70,5 @@ navigator.clipboard.writeText(getLink) - is the method to do so.
 
 ## Author
 
-- Frontend Mentor - [@giorgi-2001](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@giorgi-2001](https://www.frontendmentor.io/profile/giorgi-2001)
 
